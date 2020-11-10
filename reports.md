@@ -1,5 +1,1 @@
-layout: page
-title: "Reports"
-permalink: /reports
-
-#This is a test
+# In this section you will find all the weekly reports
